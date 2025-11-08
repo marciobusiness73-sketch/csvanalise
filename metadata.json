@@ -1,0 +1,5 @@
+{
+  "name": "CSV Insight Suggester",
+  "description": "An application to upload multiple CSV files, receive AI-powered analysis insights from Gemini, and export the data.",
+  "requestFramePermissions": []
+}
